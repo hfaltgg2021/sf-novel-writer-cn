@@ -54,10 +54,10 @@ python3 scripts/init_project.py <项目名称>
 
 具体步骤：
 1. 在附件中下载skill文件，或者从https://github.com/hfaltgg2021/sf-novel-writer-cn的release中下载skill文件。（注：skill就是zip文件，改文件名就可以解压）
-![图片描述](pic/1.png)
 2. 需要能够一个claude账户，和能够使用claude而不被封号的网络环境。
-![图片描述](pic/2.png)
+![图片描述](pic/1.png)
 3. 选择customize -> skills -> 点击右上角+号->upload a skill
+![图片描述](pic/2.png)
 ![图片描述](pic/3.png)
 4. 新开一个claude对话，左下角+号中选择skills，选择sf-novel-writer
 ![图片描述](pic/4.png)
